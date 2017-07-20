@@ -18,4 +18,4 @@ For user mode,it supports:
 buying (adding to wish list),
 seeing trailer (opening browser links),
 saving shopping bag,
-opening shopping bag in Google Chrome ( for HTML file),
+opening shopping bag in Google Chrome ( for HTML file).
